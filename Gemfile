@@ -10,6 +10,7 @@ gem "decidim", DECIDIM_VERSION
 # gem "decidim-conferences", "0.26.1"
 # gem "decidim-consultations", "0.26.1"
 # gem "decidim-elections", "0.26.1"
+gem 'decidim-blogs', DECIDIM_VERSION
 gem "decidim-initiatives", DECIDIM_VERSION
 gem 'decidim-meetings', DECIDIM_VERSION
 # gem "decidim-templates", "0.26.1"
