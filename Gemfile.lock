@@ -781,6 +781,7 @@ DEPENDENCIES
   decidim (= 0.26.1)
   decidim-dev (= 0.26.1)
   decidim-initiatives (= 0.26.1)
+  decidim-meetings (= 0.26.1)
   faker (~> 2.14)
   letter_opener_web (~> 1.3)
   listen (~> 3.1)
